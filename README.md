@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working at programmers.io<br>🌱 I’m currently learning Vue.js<br>👯 I’m looking for a new role as a Software Developer (Backend)<br>👨‍💻 All of my projects are available at https://github.com/pcsaini<br>📫 How to reach me premchandsaini779@gmail.com<br>⚡ Fun fact I love to code smoothly
+
+🚀 Co-Founder & CTO at **SignatureTech IT Solutions**  
+💻 Specialized in **Laravel**, **Node.js**, **Nest.js**, **React**, **Next.js**, **Angular**, and **AWS Architecture**  
+🌱 Currently exploring **Scalable SaaS Design**, **Event-Driven Systems**, and **Microservices**  
+🛠 Actively building products like **ClearCAExam** & **ProVibe**  
+🤝 Open to consulting, collaborations, and backend architecture challenges  
+👨‍💻 Portfolio & Projects: https://github.com/pcsaini  
+📬 Reach me at: **prem@signaturetech.in**   
+⚡ Fun Fact: I love building systems that look simple but scale beautifully.
 
 
 ## 🌐 Socials:
